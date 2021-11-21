@@ -17,7 +17,7 @@ What are trying to accomplish?
 **Reason**: 
 (what about this model suggests it's a great fit for the task above?)
 
-**Group Number # or name**: 
+**Group Number # or Name**: 
 
 **Group Members**: 
 1. .
