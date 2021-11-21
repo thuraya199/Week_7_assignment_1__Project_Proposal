@@ -2,7 +2,7 @@
 #### *Machine Learning in FinTech*:  
 with your group suggest and research one Use case in Fintech, locate some data in this space, explore it a bit, and choose a model you'd like to work with.
 
-**Area of Fintech**:  
+**Area of FinTech**:  
 (eg. Lending and credit decisions, fraud detection, Anti-money laundering, etc). 
 
 **Dataset researched and located**:  
